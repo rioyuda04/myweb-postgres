@@ -1,0 +1,11 @@
+
+/* NAVBAR */
+.navbar{
+    width: 100%; 
+    height: auto;
+    padding: 0;
+}
+a[name=register]{
+    font-weight: 500;
+}
+/* navbar end*/
